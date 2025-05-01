@@ -13,5 +13,5 @@ pip install -r requirements.txt
 python bot.py
 ```
 
-**Demo**: [@Lakeyos_Bot](t.me/Lakeyos_Bot)  
+**Demo**: [@Lakeyos_Bot](https://t.me/Lakeyos_Bot)  
 **Source**: [GitHub](https://github.com/HazeLakeys/telegram-expense-bot)
